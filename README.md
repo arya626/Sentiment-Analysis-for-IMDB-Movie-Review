@@ -8,4 +8,4 @@ In this project, we use sentiment analysis on a set of movie reviews and try to 
   4. Logistic Regression. 
 And also used principal components analysis to reduce the dimensions of the dataset
 
-The link to dataset is: https://drive.google.com/file/d/1cgOFq61WaTvzDFhl3UyJpWxyRNs-dNVb/view?usp=sharing
+Link to dataset: https://drive.google.com/file/d/1cgOFq61WaTvzDFhl3UyJpWxyRNs-dNVb/view?usp=sharing
